@@ -1,0 +1,9 @@
+{
+    "name": "zver/quiz",
+    "autoload": {
+        "psr-4": {
+            "Zver\\Quiz\\": "src/"
+        }
+    },
+    "require": {}
+}
